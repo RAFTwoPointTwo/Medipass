@@ -1,7 +1,7 @@
 # Medipass
 
 ## Description
-This application was developed to optimize medical management, by performing Admin's handling, healthProfessionals accounts, patients management and other features for an efficient MedicalHandling.
+Medipass is a comprehensive medical management solution designed to streamline healthcare workflows. It features advanced administrative oversight, professional account management, and integrated patient tracking for efficient clinical handling.
 
 ***Developed By RAF***
 
