@@ -11,6 +11,7 @@ Medipass is a comprehensive medical management solution designed to streamline h
 - ✅ Patient management and tracking
 - ✅ Optimized user interface
 - ✅ Efficient medical handling
+- ✅ Automatic Data Persistence
 
 And **others** features !
 
